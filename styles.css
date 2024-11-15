@@ -125,3 +125,35 @@ border-radius: 25px;
         text-align: left;
         padding: 10px 0;
 }
+
+#banhmi {
+    background-color: rgb(111, 0, 0);
+    color: rgb(253, 247, 240);
+}
+
+#banhmi h1 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 36px;
+    text-indent: 30px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.689);
+}
+
+#banhmi img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+
+#banhmi h2 {
+    text-align: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.689);
+}
+
+#banhmi ol {
+    list-style-position: inside;
+    padding: 10px;
+    line-height: 1.5;
+}
