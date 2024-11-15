@@ -67,7 +67,61 @@ border-radius: 25px;
 
 #pistachio ol {
     list-style-position: inside;
-    padding: 20px 0;
-    text-align: center;
+    padding: 10px 10px;
     line-height: 1.5;
+}
+
+.pistachio.num {
+    font-size: 20px;
+}
+
+.pistachio.alpha {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    padding: 10px 0;
+}
+
+
+#periburger {
+    background-color: rgb(111, 39, 0);
+    color: rgb(253, 247, 240);
+}
+
+#periburger h1 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 36px;
+    text-indent: 30px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.689);
+}
+
+#periburger img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+
+#periburger h2 {
+    text-align: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.689);
+}
+
+#periburger ol {
+    list-style-position: inside;
+    padding: 10px 10px;
+    line-height: 1.5;
+}
+
+.periburger.num {
+    font-size: 20px;
+}
+
+.periburger.alpha {
+    font-size: 16px;
+        letter-spacing: 0.5px;
+        text-align: left;
+        padding: 10px 0;
 }
